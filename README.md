@@ -1,4 +1,4 @@
-# cybersecurity-lab-setup
+# <img width="1359" height="763" alt="cybersecurity-lab-setup" src="https://github.com/user-attachments/assets/2c1c1b0d-623c-44d3-b5aa-8d97bf72cdaf" />
 The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing. It can be used for activities such as:(port scanning,network reconnaissance,vulnerability assessment,packet analysis,web security testing, exploitation practice, security tool experimentation)
 This repository contains my practical cybersecurity and ethical hacking laboratory environment. The lab is designed to provide a controlled environment where I can practice penetration testing, ethical hacking, network security, and other cybersecurity activities without affecting production systems.
 
